@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">Experienced Business Analyst with a strong track record in optimizing business processes and driving revenue growth.</h3>
+<h3 align="center">Business Analyst @ TimesPro(A division of Times Of India).</h3>
 
 - 🔭 I’m currently working on **Business Analytics for TOI**
 
