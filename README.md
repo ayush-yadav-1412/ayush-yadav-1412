@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">Experienced Business Analyst with a strong track record in optimizing business processes and driving revenue growth.</h3>
 
-- 🔭 I’m currently working on **Business Analytics for TOI**
+- 🔭 I’m currently working on **Business Analytics for TIMESPRO**
 
 - 🌱 I’m currently learning **Data Science and AI**
 
